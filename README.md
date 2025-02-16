@@ -14,7 +14,7 @@ A secure command-line tool for file encryption and management using AES-256-GCM 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/encryption-engine.git
+git clone https://github.com/Arcoson/EncryptionEngine.git
 cd encryption-engine
 ```
 
