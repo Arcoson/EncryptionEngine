@@ -8,7 +8,6 @@ A secure command-line tool for file encryption and management using AES-256-GCM 
 - **Password-Based Security**: Files are encrypted using user-provided passwords
 - **File Management**: Store, retrieve, list, and delete encrypted files
 - **Secure Key Derivation**: Implements PBKDF2 with SHA-256 for key derivation
-- **Simple CLI Interface**: Easy-to-use command-line interface
 
 ## Installation
 
